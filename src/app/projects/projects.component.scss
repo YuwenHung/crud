@@ -1,0 +1,39 @@
+#allPage {
+    background-color: rgb(225, 225, 209);
+}
+.example-spacer {
+  flex: 1 1 auto;
+}
+  
+#button {
+  background-color: rgb(225, 225, 209); /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+    
+#button {
+    transition-duration: 0.4s;
+}
+    
+#button:hover {
+    background-color: rgb(116,123,106); /* Green */
+    color: white;
+}
+
+#fourthblock {
+    position:absolute;
+    top: 1000px;
+    left:63px;
+    border-image: 0%;
+}
+
+a {
+    text-decoration: solid;
+    color: rgba(114, 124, 129);
+    font-size:large;
+}

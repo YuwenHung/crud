@@ -1,0 +1,47 @@
+#allPage {
+  background-color: rgb(225, 225, 209);
+}
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+#button {
+background-color: rgb(225, 225, 209); /* Green */
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+}
+  
+#button {
+  transition-duration: 0.4s;
+}
+  
+#button:hover {
+  background-color: rgb(116,123,106); /* Green */
+  color: white;
+}
+
+nav {
+  position:absolute; 
+  right: 700px; 
+  bottom:136px;
+  font-size: large;
+  font-style: bold;
+}
+
+#topic {
+  position:absolute; 
+  right: 280px; 
+  bottom:140px;
+
+}
+
+h1 {
+  color:rgb(116,123,106);
+  font-weight: 800;
+  font-size: 100px;
+}
